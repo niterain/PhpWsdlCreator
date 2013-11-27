@@ -1,0 +1,24 @@
+{
+    "name": "niterain/php-wsdl-creator",
+    "description": "Generate WSDL from PHP and optional run a SOAP server",
+    "homepage": "http://github.com/niterain/PhpWsdlCreator",
+    "keywords": ["php","wsdl"],
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "schickwasan@googlemail.com",
+            "email": "schickwasan@googlemail.com",
+            "homepage": "https://code.google.com/p/php-wsdl-creator/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PhpWsdlCreator": "."
+        }
+    },
+    "minimum-stability": "dev"
+}
