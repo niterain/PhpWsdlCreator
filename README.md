@@ -101,7 +101,7 @@ Note: PhpWsdl can include documentation tags in WSDL. But f.e. Visual Studio
 won't use these documentations for IntelliSense. This is not a bug in PhpWsdl.
 
 The quick mode
-~~~~~~~~~~~~~~
+==============
 PhpWsdl can determine most of the required configuration to run a SOAP server. 
 The fastest way is:
 
