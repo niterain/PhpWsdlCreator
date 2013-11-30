@@ -1,7 +1,5 @@
 <?php
 
-if(basename($_SERVER['SCRIPT_FILENAME'])==basename(__FILE__))
-	exit;
 
 // The @pw_element and @pw_complex are non-standard keywords for documentaion 
 // I had to define to support those complex types for WSDL generation. The  

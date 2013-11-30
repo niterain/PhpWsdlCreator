@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "PhpWsdlCreator": ""
+            "PhpWsdlCreator": "src"
         }
     },
     "minimum-stability": "dev"
