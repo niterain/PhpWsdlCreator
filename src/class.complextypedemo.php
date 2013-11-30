@@ -1,4 +1,4 @@
-<?php
+<?php namespace PhpWsdlCreator;
 
 
 // The @pw_element and @pw_complex are non-standard keywords for documentaion 
